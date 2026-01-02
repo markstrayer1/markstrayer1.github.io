@@ -7,6 +7,27 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Assistant
 
-Organize your courses by years, topics, or universities, however you like!
+**Purdue University**
+
+- ECON 210: Principles of Economics  
+  Teaching assistant
+
+- ECON 451: Game Theory  
+  Teaching assistant
+
+**Michigan State University**
+
+- EC 301: Intermediate Microeconomics
+  Teaching assistant
+
+- EC 302: Intermediate Macroeconomics
+  Teaching assistant
+
+**University of Michigan**
+
+- PUBPOL 555: Microeconomics A
+  Graduate teaching instructor
+  
+
