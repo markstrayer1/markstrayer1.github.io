@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Assistant
-
 **Purdue University**
 
 - ECON 210: Principles of Economics  
