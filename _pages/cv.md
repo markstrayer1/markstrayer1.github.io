@@ -1,14 +1,12 @@
 ---
-layout: cv
+layout: page
+title: Curriculum Vitae
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 5
-cv_pdf: Mark_Strayer_CV_Jan2026.pdf # you can also use external links here
-# description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
 ---
 
+My CV is available for download below.
+
+- [Download CV (PDF)](/assets/pdf/Mark_Strayer_CV_Jan2026.pdf)
+---
 
 
