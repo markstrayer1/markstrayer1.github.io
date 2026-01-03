@@ -2,6 +2,7 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
+nav: true
 ---
 
 My CV is available for download below.
